@@ -2,15 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     padding: 20px;
-    background-color: #08093a;
+    background-color: #06085c;
 }
 
 .section {
     margin-bottom: 20px;
-    background-color: #08093a;
+    background-color: #083a3a;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0px 0px 10px 0px rgba(3, 87, 10, 0.1);
+    box-shadow: 0px 0px 10px 0px rgba(25, 49, 27, 0.1);
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-    color: #343A40;
+    color: #033261;
 }
 
 ul {
@@ -33,7 +33,7 @@ li {
 
 /* Estilos para enlaces */
 a {
-    color: #007BFF;
+    color: #07315f;
     text-decoration: none;
 }
 
